@@ -1,0 +1,8 @@
+﻿  myServer.cpp
+D:\英才政策文件\2136001\计算机网络\code\lab2_server_sr\myServer.cpp(303,18): warning C4309: “=”: 截断常量值
+D:\英才政策文件\2136001\计算机网络\code\lab2_server_sr\myServer.cpp(449,19): warning C4309: “=”: 截断常量值
+D:\英才政策文件\2136001\计算机网络\code\lab2_server_sr\myServer.cpp(479,18): warning C4804: “<”: 在操作中使用类型“bool”不安全
+D:\英才政策文件\2136001\计算机网络\code\lab2_server_sr\myServer.cpp(483,19): warning C4244: “=”: 从“unsigned short”转换到“char”，可能丢失数据
+D:\英才政策文件\2136001\计算机网络\code\lab2_server_sr\myServer.cpp(522,40): warning C4804: “<”: 在操作中使用类型“bool”不安全
+D:\英才政策文件\2136001\计算机网络\code\lab2_server_sr\myServer.cpp(524,19): warning C4244: “=”: 从“unsigned short”转换到“char”，可能丢失数据
+  lab2_server_sr.vcxproj -> D:\英才政策文件\2136001\计算机网络\code\lab2_server_sr\Debug\lab2_server_sr.exe

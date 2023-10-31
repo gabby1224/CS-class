@@ -1,0 +1,3 @@
+D:\英才政策文件\2136001\计算机网络\code\Lab2\Debug\Lab2.exe
+D:\英才政策文件\2136001\计算机网络\code\lab2_client\Debug\Lab2.exe
+D:\英才政策文件\2136001\计算机网络\code\lab2_client_fulldup\Debug\Lab2.exe

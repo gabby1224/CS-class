@@ -1,0 +1,4 @@
+﻿  lab2_server_gbn.cpp
+D:\英才政策文件\2136001\计算机网络\code\lab2_server_gbn\lab2_server_gbn\lab2_server_gbn.cpp(210,18): warning C4309: “=”: 截断常量值
+  LINK : 没有找到 D:\英才政策文件\2136001\计算机网络\code\lab2_server_gbn\lab2_server_gbn\Debug\lab2_server_gbn.exe 或上一个增量链接没有生成它；正在执行完全链接
+  lab2_server_gbn.vcxproj -> D:\英才政策文件\2136001\计算机网络\code\lab2_server_gbn\lab2_server_gbn\Debug\lab2_server_gbn.exe

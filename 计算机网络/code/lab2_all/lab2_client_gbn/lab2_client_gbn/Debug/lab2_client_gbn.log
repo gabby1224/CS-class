@@ -1,0 +1,8 @@
+﻿  lab2_client_gbn.cpp
+D:\英才政策文件\2136001\计算机网络\code\lab2_client_gbn\lab2_client_gbn\lab2_client_gbn.cpp(91,29): warning C4305: “初始化”: 从“double”到“float”截断
+D:\英才政策文件\2136001\计算机网络\code\lab2_client_gbn\lab2_client_gbn\lab2_client_gbn.cpp(92,26): warning C4305: “初始化”: 从“double”到“float”截断
+D:\英才政策文件\2136001\计算机网络\code\lab2_client_gbn\lab2_client_gbn\lab2_client_gbn.cpp(124,19): warning C4309: “=”: 截断常量值
+D:\英才政策文件\2136001\计算机网络\code\lab2_client_gbn\lab2_client_gbn\lab2_client_gbn.cpp(158,19): warning C4244: “=”: 从“unsigned short”转换到“char”，可能丢失数据
+D:\英才政策文件\2136001\计算机网络\code\lab2_client_gbn\lab2_client_gbn\lab2_client_gbn.cpp(167,19): warning C4244: “=”: 从“unsigned short”转换到“char”，可能丢失数据
+  LINK : 没有找到 D:\英才政策文件\2136001\计算机网络\code\lab2_client_gbn\lab2_client_gbn\Debug\lab2_client_gbn.exe 或上一个增量链接没有生成它；正在执行完全链接
+  lab2_client_gbn.vcxproj -> D:\英才政策文件\2136001\计算机网络\code\lab2_client_gbn\lab2_client_gbn\Debug\lab2_client_gbn.exe
